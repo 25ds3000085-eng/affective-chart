@@ -1,0 +1,7 @@
+{
+  "prompt": "A haunting single-frame magazine cover image: a young Indian child in school uniform standing in a busy Chennai street. The air around the child is thick with dark toxic haze that forms a giant hourglass. The sand falling in the hourglass is made of tiny PM2.5 pollution particles, symbolizing years of life lost. Melancholic, emotional, cinematic lighting, high detail, symbolic, no text, no labels, no chart, no numbers, no globe.",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "Air Pollution in India (AQLI 2024)",
+  "dataset_url": "https://aqli.epic.uchicago.edu/country-spotlight/india/",
+  "insight": "Children in India are losing up to 6 years of life expectancy due to air pollution — every breath they take shortens their future."
+}
